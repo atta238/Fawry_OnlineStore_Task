@@ -25,23 +25,6 @@ Each book inherits from an abstract `Book` class
 
 ---
 
-## 📦 Packages & Structure
-
-Fawry_OnlineStore_Task/                                                                                                                                                                                              
-├── Main_Classes/
-│ ├── Book.java
-│ ├── EBook.java
-│ ├── Paper_Book.java
-│ └── Demo_Book.java
-├── Inventory/
-│ └── Inventory.java
-├── Services/
-│ ├── ShippingService.java
-│ └── MailService.java
-└── Testing.java
-
----
-
 ## 📸 Screenshots
 ![App Console Output](https://github.com/user-attachments/assets/f1757230-3dce-409f-8f55-c4558753d827)
 
