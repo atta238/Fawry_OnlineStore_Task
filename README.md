@@ -27,7 +27,7 @@ Each book inherits from an abstract `Book` class
 
 ## 📦 Packages & Structure
 
-Fawry_OnlineStore_Task/
+Fawry_OnlineStore_Task/                                                                                                                                                                                              
 ├── Main_Classes/
 │ ├── Book.java
 │ ├── EBook.java
