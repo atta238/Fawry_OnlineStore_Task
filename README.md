@@ -1,6 +1,6 @@
 # 📚 Online Bookstore
 
-Online Bookstore is a Java console application that simulates a flexible and extensible online bookstore. It supports different book types (like Paper Books and EBooks), allows users to buy books, and handles inventory operations.
+Online Bookstore is a Java console application that simulates a flexible and extensible online bookstore. It supports different book types (like Paper Books and EBooks), allows users to buy books, and handles inventory operations
 
 ---
 
