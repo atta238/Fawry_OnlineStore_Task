@@ -26,5 +26,8 @@ Each book inherits from an abstract `Book` class
 ---
 
 ## 📸 Screenshots
-![App Console Output](https://github.com/user-attachments/assets/f1757230-3dce-409f-8f55-c4558753d827)
+![App](https://github.com/user-attachments/assets/4fb17ba2-0913-454f-ab6d-a94448b9d7f1)
+![App](https://github.com/user-attachments/assets/68f0e69c-86ee-419a-a5db-1e395a596092)
+![App Console Output](https://github.com/user-attachments/assets/7d991906-f684-47ec-a342-ee08b6a95536)
+
 
